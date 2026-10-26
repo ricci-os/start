@@ -10,7 +10,11 @@ If you're an agent working for Matt Ricci, begin here. This page only tells you 
 | 2. Working context | github.com/ricci-os/ricci-context | private; Matt grants access per agent |
 | 3. Source files | Matt's own machines | only if you're running on one; the private repo's README lists what is where |
 
-Matt's public writing on how he works (principles, preferences, reading) is at [github.com/ricci-os/ricci-context-public](https://github.com/ricci-os/ricci-context-public). It's useful background, but it holds no operational context and isn't where agents start.
+## Where to go from here
+
+- **Public canon:** [github.com/ricci-os/ricci-context-public](https://github.com/ricci-os/ricci-context-public). Matt's writing on how he works: principles, preferences, reading. Useful background; no operational context.
+- **Private repo:** [github.com/ricci-os/ricci-context](https://github.com/ricci-os/ricci-context), if Matt has granted you access. Its `pack/map.md` is the full map of everything that exists, every layer, every machine, down to the files.
+- **Local files:** listed in the private repo's README (machine → path) and in `pack/map.md`. Reachable only by an agent running on that machine.
 
 ## How to handle it
 
